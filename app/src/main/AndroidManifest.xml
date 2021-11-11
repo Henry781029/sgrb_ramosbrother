@@ -10,6 +10,18 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.ShopGamer_Ramosbrother">
         <activity
+            android:name=".SGRB_ViewPurchasedProduct"
+            android:exported="false" />
+        <activity
+            android:name=".SGRB_Seller"
+            android:exported="false" />
+        <activity
+            android:name=".SGRB_User"
+            android:exported="false" />
+        <activity
+            android:name=".SGRB_screenSplash"
+            android:exported="false" />
+        <activity
             android:name=".SGRB_registerProduct"
             android:exported="false" />
         <activity
