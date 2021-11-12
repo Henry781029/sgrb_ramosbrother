@@ -10,35 +10,36 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.ShopGamer_Ramosbrother">
         <activity
+            android:name=".SGRB_actualizarCliente"
+            android:exported="false"></activity>
+        <activity
             android:name=".SGRB_ViewPurchasedProduct"
-            android:exported="false" />
-        <activity
-            android:name=".SGRB_Seller"
-            android:exported="false" />
-        <activity
-            android:name=".SGRB_User"
-            android:exported="false" />
-        <activity
-            android:name=".SGRB_screenSplash"
-            android:exported="false" />
-        <activity
-            android:name=".SGRB_registerProduct"
-            android:exported="false" />
-        <activity
-            android:name=".SGRB_register"
-            android:exported="false" />
-        <activity
-            android:name=".SGRB_editarProduct"
             android:exported="false" />
         <activity
             android:name=".SGRB_actualizarVendedor"
             android:exported="false" />
         <activity
-            android:name=".SGRB_actualizarCliente"
+            android:name=".SGRB_editarProduct"
+            android:exported="false" />
+        <activity
+            android:name=".SGRB_User"
+            android:exported="false" />
+        <activity
+            android:name=".SGRB_registerProduct"
+            android:exported="false" />
+        <activity
+            android:name=".SGRB_Seller"
+            android:exported="false" />
+        <activity
+            android:name=".SGRB_register"
             android:exported="false" />
         <activity
             android:name=".MainActivity"
+            android:exported="true"/>
+        <activity
+            android:name=".SGRB_screenSplash"
             android:exported="true">
+
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
