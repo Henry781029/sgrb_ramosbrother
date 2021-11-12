@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "977416560683",
+    "project_id": "shop-gamer-ramosbrtother",
+    "storage_bucket": "shop-gamer-ramosbrtother.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:977416560683:android:b39505ab033c73e5e1ca6e",
+        "android_client_info": {
+          "package_name": "com.project_moviles2.shopgamer_ramosbrother"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "977416560683-5rvpdn3hpul4c37rsev303n291aobe4g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAuCvFrOha4KwT1zUe5BeT3DRjdehqKK74"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "977416560683-5rvpdn3hpul4c37rsev303n291aobe4g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

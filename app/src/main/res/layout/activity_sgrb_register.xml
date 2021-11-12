@@ -308,6 +308,7 @@
                             android:layout_weight="1"
                             android:background="@drawable/bordes_botones"
                             android:gravity="center"
+                            android:onClick="Registrar"
                             android:text="REGISTRASE"
                             android:textAllCaps="false"
                             tools:ignore="TouchTargetSizeCheck" />

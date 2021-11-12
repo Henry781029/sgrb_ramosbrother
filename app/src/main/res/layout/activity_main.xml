@@ -147,6 +147,7 @@
                     android:layout_height="45dp"
                     android:background="@drawable/bordes_botones"
                     android:gravity="center"
+                    android:onClick="logueo"
                     android:text="Ingresar"
                     tools:ignore="TouchTargetSizeCheck" />
 
